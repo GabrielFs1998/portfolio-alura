@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+.titulo-blog {
+    color: blueviolet;
+}
+
+.texto-destaque {
+    color: orangered;
+}
+
+.urgente {
+    color: red;
+}
+
+p {
+    padding: 10px;
+    border: 1px solid red;
+    margin-bottom: 5px;
+    width: 500px;
+}
